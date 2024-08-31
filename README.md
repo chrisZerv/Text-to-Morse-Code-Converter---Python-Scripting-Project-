@@ -35,3 +35,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Acknowledgments
 - [Morse Code Wikipedia](https://en.wikipedia.org/wiki/Morse_code) for the Morse code reference.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
